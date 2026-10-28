@@ -6,7 +6,6 @@ on:
 
 jobs:
   build:
-    runs-name: ubuntu-latest
     runs-on: ubuntu-latest
 
     steps:
